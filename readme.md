@@ -13,4 +13,6 @@
   
   If you have a Sense HAT, attach it to your Raspberry Pi.
   If you do not have a Sense HAT, you can create the project using the <a href="https://trinket.io/sense-hat">Sense Hat emulator</a>.
+  <br>
+  <br>
 <img src="image.png">
