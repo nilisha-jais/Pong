@@ -2,7 +2,7 @@
  ## Hardware ##
  <ul>
   <li>Raspberry Pi</li>
-  <li>Sense HAT (if you don't have one use <a href="https://trinket.io/sense-hat">Sense Hat emulator</a></li>
+  <li>Sense HAT (if you don't have one use <a href="https://trinket.io/sense-hat">Sense Hat emulator</a>)</li>
  </ul>
  
  ## Software ##
