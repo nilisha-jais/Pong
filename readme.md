@@ -16,3 +16,6 @@
   <br>
   <br>
 <img src="image.png">
+
+<a href="https://trinket.io/python/b0343eabc2?outputOnly=true">Live</a> ||
+<a href="https://youtu.be/oxy6Na4AWis">Video Demo</a>
